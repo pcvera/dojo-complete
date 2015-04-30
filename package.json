@@ -1,7 +1,7 @@
 {
   "name": "dojo-complete",
   "main": "./lib/dojo-complete",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shorthand support for dojo module names",
   "activationCommands": {},
   "repository": "https://github.com/pcvera/dojo-complete",
