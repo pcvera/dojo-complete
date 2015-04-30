@@ -2,7 +2,7 @@
 
 Can't remember full dojo module names? Don't worry about it! If you know the module you're looking for, I'll fill it in for you.
 
-![preview](https://github.com/pcvera/dojo-complete/blob/master/preview/preview.gif)
+![preview](https://cloud.githubusercontent.com/assets/1635030/7406269/92111e00-eeb4-11e4-980b-5b5b3e2ccf98.gif)
 
 Typing the module name, prefixed with a pound sign will automatically replace it with the qualified module name, wrapped in quotes and followed by a comma. For example, typing:
 ```
