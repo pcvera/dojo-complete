@@ -1,15 +1,13 @@
 {
   "name": "dojo-complete",
   "main": "./lib/dojo-complete",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Can't remember full dojo module names? Don't worry about it! If you know the module you're looking for, I'll fill it in for you",
-  "activationCommands": {
-  },
+  "activationCommands": {},
   "repository": "https://github.com/pcvera/dojo-complete",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
