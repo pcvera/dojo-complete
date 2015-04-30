@@ -2,7 +2,7 @@
   "name": "dojo-complete",
   "main": "./lib/dojo-complete",
   "version": "0.1.0",
-  "description": "Can't remember full dojo module names? Don't worry about it! If you know the module you're looking for, I'll fill it in for you",
+  "description": "Shorthand support for dojo module names",
   "activationCommands": {},
   "repository": "https://github.com/pcvera/dojo-complete",
   "license": "MIT",
